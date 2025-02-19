@@ -1,4 +1,4 @@
-# File-Compression-Utility
+# File-Compression-Utility-Tool
 We use **Huffman's algorithm** to construct **a tree** that is used for data compression. 
 We assume that each character has an associated weight equal to the number of times the character occurs in a file,
 When compressing a file we'll need to calculate these weights.
